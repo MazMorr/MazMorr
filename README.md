@@ -1,4 +1,4 @@
-### 👨‍💻 Java and Kotlin Developer with more than 1 year of experience
+### 👨‍💻 Second Year Software Engineer Student at Camilo Cienfuegos University
 - 🔭 I’m currently working on ChoUnion Cultural Project as Software Developer
 - 🌱 I’m currently learning Spring Boot Framework
 - 👯 I’m looking to collaborate on Companies from Europe and North America
