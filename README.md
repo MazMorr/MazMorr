@@ -1,22 +1,23 @@
-### 👨‍💻 Second Year Software Engineer Student at Camilo Cienfuegos University
+# 👨‍💻 Second Year Software Engineer Student at Camilo Cienfuegos University
 - 🔭 I’m currently working on ChoUnion Cultural Project as Software Developer
 - 🌱 I’m currently learning Spring Boot Framework
 - 👯 I’m looking to collaborate on Companies from Europe and North America
 - 💬 Ask me about everything relationed with JavaFX
 - 📫 How to reach me: www.marconchelo12@gmail.com or +53 55505961
   
-My principal projects:
-https://github.com/MazMorr/AlmacenSoftwareTest-main.git
-https://github.com/MazMorr/Quiz-JavaFX.git
-https://github.com/MazMorr/Leaderboard-JavaFX.git
+## My principal projects:
+- https://github.com/MazMorr/AlmacenSoftwareTest-main.git
+- https://github.com/MazMorr/Quiz-JavaFX.git
+- https://github.com/MazMorr/Leaderboard-JavaFX.git
 
-🔧 Tools and skills:
+## 🔧 Tools and skills:
 - Advanced use of tools such as Git, Github, Visual Studio Code, NetBeans, IntellijIdea64.
 - Experience with HTML, CSS and Javascript for Web Development.
-- Experience in Mathematical calculations and efficient algorithms.
-- Advanced knowledge in Java for application development.
+- Experience in PostgreSQL, MySQL and SQLite.
+- Advanced knowledge in Java and Kotlin for application development.
 - Implementation of diagrams and pseudocode for algorithm design.
 - Training in development of automated responses and programming logic.
+  
 
 <!--
 **MazMorr/MazMorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
