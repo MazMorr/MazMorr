@@ -2,15 +2,13 @@
 - 🔭 I’m currently working on ChoUnion Cultural Project as Software Developer
 - 🌱 I’m currently learning Spring Boot Framework
 - 👯 I’m looking to collaborate on Companies from Europe and North America
-- 🤔 I’m looking for help with 
 - 💬 Ask me about everything relationed with JavaFX
 - 📫 How to reach me: www.marconchelo12@gmail.com or +53 55505961
-- ⚡ Fun fact: ...
   
 My principal projects:
--https://github.com/MazMorr/AlmacenSoftwareTest-main.git.
--https://github.com/MazMorr/Quiz-JavaFX.git.
--https://github.com/MazMorr/Leaderboard-JavaFX.git
+https://github.com/MazMorr/AlmacenSoftwareTest-main.git
+https://github.com/MazMorr/Quiz-JavaFX.git
+https://github.com/MazMorr/Leaderboard-JavaFX.git
 
 🔧 Tools and skills:
 - Advanced use of tools such as Git, Github, Visual Studio Code, NetBeans, IntellijIdea64.
