@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Spring Boot Framework
 - 👯 I’m looking to collaborate on Companies from Europe and North America
 - 💬 Ask me about everything relationed with JavaFX
-- 📫 How to reach me: www.marconchelo12@gmail.com or +53 55505961
+- 📫 How to reach me: marconchelo12@gmail.com or +53 55505961
   
 ## My principal projects:
 - https://github.com/MazMorr/AlmacenSoftwareTest-main.git
