@@ -1,4 +1,4 @@
-# 👨‍💻 Second Year Software Engineer Student at Camilo Cienfuegos University
+# 👨‍💻 Second Year Software Engineer Student.
 - 🔭 I’m currently working on ChoUnion Cultural Project as Software Developer
 - 🌱 I’m currently learning Spring Boot Framework
 - 👯 I’m looking to collaborate on Companies from Europe and North America
