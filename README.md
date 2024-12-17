@@ -14,7 +14,7 @@
 - Advanced use of tools such as Git, Github, Visual Studio Code, NetBeans, IntellijIdea64.
 - Experience with HTML, CSS and Javascript for Web Development.
 - Experience in PostgreSQL, MySQL and SQLite.
-- Advanced knowledge in Java and Kotlin for application development.
+- Advanced knowledge in Java for application development.
 - Implementation of diagrams and pseudocode for algorithm design.
 - Training in development of automated responses and programming logic.
   
