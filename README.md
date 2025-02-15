@@ -1,7 +1,7 @@
 # 👨‍💻 Second Year Software Engineer Student.
 - 🐱‍👤 Hi, my Fullname is Marco Antonio Romero Albanez
 - 🔭 I’m currently working on ChoUnion Cultural Project as Software Developer
-- 🌱 I’m currently learning Database Design
+- 🌱 I’m currently learning Spring Framework
 - 👯 I’m looking to collaborate on Companies from Europe and North America
 - 💬 Ask me about everything relationed with JavaFX
 - 📫 How to reach me: marconchelo12@gmail.com or +53 55505961
