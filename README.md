@@ -5,7 +5,7 @@ I'm **Marco Antonio Romero Albanez**, a Computer Engineering student from Cuba �
 ## 🔧 What I do:
 - 🌱 Currently learning: mobile app design, RESTful APIs, and MVVM architecture  
 - 💻 Focused on: JavaFX, Spring Boot, Kotlin & backend logic  
-- 🚀 Open to collaborating with teams in Europe and North America  
+- 🚀 Open to collaborating with teams in Europe, South America and North America  
 
 ## 🧠 Key skills:
 - **Languages:** Java, Kotlin, HTML, CSS, JavaScript  
