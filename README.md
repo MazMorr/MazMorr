@@ -18,8 +18,6 @@ I'm **Marco Antonio Romero Albanez**, a Computer Engineering student from Cuba �
   - Singleton, Template Method, Strategy, Facade, Builder (implicitly)
 
 ## 🛠 Featured projects:
-- 📦 [Storage Software (JavaFX + Spring Boot)](https://github.com/MazMorr/Storage-Software-SpringBoot-Javafx.git)  
-- 📱 [AndroidProjects (Kotlin + Retrofit)](https://github.com/MazMorr/All-my-Android-Applications.git)  
 - 🧠 [Interactive Quiz (JavaFX + Spring Boot)](https://github.com/MazMorr/Quiz.git)  
 - 🏆 [Leaderboard App (JavaFX)](https://github.com/MazMorr/Leaderboard-JavaFX.git)
 
