@@ -8,7 +8,7 @@ I'm **Marco Antonio Romero Albanez**, a Computer Engineering student from Cuba �
 - 🚀 Open to collaborating with teams in Europe, South America and North America  
 
 ## 🧠 Key skills:
-- **Languages:** Java, Kotlin, HTML, CSS, Typescript
+- **Languages:** Java, HTML, CSS, Typescript
 - **Frameworks:** JavaFX, Spring Boot, Angular
 - **Databases:** PostgreSQL, MySQL, SQLite, H2 Database
 - **Tools:** Git, GitHub, VS Code, NetBeans, IntelliJ  Idea
