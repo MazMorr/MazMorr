@@ -19,7 +19,7 @@ I'm **Marco Antonio Romero Albanez**, a Computer Engineering student from Cuba �
 
 ## 🛠 Featured projects:
 - 💼 [Business Manager (SpringBoot + Javafx)](https://github.com/MazMorr/Storage-Software-SpringBoot-Javafx.git)
-- 🧠 [Interactive Quiz (JavaFX + Spring Boot)](https://github.com/MazMorr/Quiz.git)
+- 🧠 [Interactive Quiz (Spring Boot + JavaFX)](https://github.com/MazMorr/Quiz.git)
 - 📈 [Bill Manager-University Project(JavaFX + Spring Boot)](https://github.com/MazMorr/Bill-University-Project.git)
 - 🏆 [Leaderboard App (JavaFX)](https://github.com/MazMorr/Leaderboard-JavaFX.git)
 
